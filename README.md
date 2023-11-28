@@ -2,11 +2,15 @@
 
 프로젝트 별로 링크를 생성하여 관리하는 서비스입니다.
 
-해당 프로젝트는 [Next.js 14](https://nextjs.org/)로 개발되었습니다.
+## 개발 도구
 
-## Getting Started
+- [Next.js 14](https://nextjs.org/) - 사용 프레임워크
+- [pnpm](https://pnpm.io/ko/) - 패키지 매니저
+- [shadcn/ui](https://ui.shadcn.com/) - ui component 라이브러리
 
-First, run the development server:
+## 시작하기
+
+개발 서버 동작 명령어
 
 ```bash
 npm run dev
