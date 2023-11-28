@@ -7,6 +7,7 @@
 - [Next.js 14](https://nextjs.org/) - 사용 프레임워크
 - [pnpm](https://pnpm.io/ko/) - 패키지 매니저
 - [shadcn/ui](https://ui.shadcn.com/) - ui component 라이브러리
+- [Clerk](https://clerk.com/) - 사용자 관리 서비스
 
 ## 시작하기
 
